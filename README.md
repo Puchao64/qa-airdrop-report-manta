@@ -1,7 +1,7 @@
 # QA Report: Manta Network Airdrop Page
 
-🗓 **Date:** May 3, 2025  
-🧪 **Tested URL:** https://test.manta-network.sbs/  
+🗓 **Date:** May 3, 2025    
+**Tested URL:** [URL removed for safety due to MetaMask block warning]
 👤 **Tester:** Artur Puchinin
 
 ---
